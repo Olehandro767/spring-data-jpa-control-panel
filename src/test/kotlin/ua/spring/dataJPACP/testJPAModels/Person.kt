@@ -1,6 +1,6 @@
 package ua.spring.dataJPACP.testJPAModels
 
-import jakarta.persistence.*
+import javax.persistence.*
 
 @Entity
 class Person {
